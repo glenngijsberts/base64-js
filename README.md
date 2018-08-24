@@ -2,6 +2,8 @@
 
 Package for encoding images to base64 images and resizing base64 images 🔥
 
+![Alt Text](https://media.giphy.com/media/1AjUYt9D4XOMNcWL3l/giphy.gif)
+
 ## Install
 
 ```javascript
