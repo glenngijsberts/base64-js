@@ -1,5 +1,7 @@
 # Base64js-ES6
 
+[![npm version](https://badge.fury.io/js/base64js-es6.svg)](https://badge.fury.io/js/base64js-es6)
+
 Package for encoding images to base64 images and resizing base64 images 🔥
 
 ![Alt Text](https://media.giphy.com/media/1AjUYt9D4XOMNcWL3l/giphy.gif)
