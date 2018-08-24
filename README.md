@@ -30,6 +30,7 @@ Example
 function ImageOnChange(e) {
     const file = e.target.files;
 
+    // getBase64(src of file)
     getBase64(file[0]).then((response) => {
         // Will log the base64 string
         console.log(response)
@@ -53,6 +54,8 @@ function ImageOnChange(e) {
     const file = e.target.files;
 
     getBase64(file[0]).then((response) => {
+        
+        // resizeBase64(src of file, width, height)
         resizeBase64(response, 250, 250).then((result) => {
             // Will log a new base64 string
             // Do whatever what you want with this string
