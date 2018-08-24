@@ -1,0 +1,25 @@
+{
+  "name": "base64js-es6",
+  "version": "1.0.0",
+  "description": "Package for encoding images to base64 images and resizing base64 images",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glenngijsberts/base64-js.git"
+  },
+  "keywords": [
+    "Base64",
+    "JS",
+    "Promises",
+    "ES6"
+  ],
+  "author": "Glenn Gijsberts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/glenngijsberts/base64-js/issues"
+  },
+  "homepage": "https://github.com/glenngijsberts/base64-js#readme"
+}
